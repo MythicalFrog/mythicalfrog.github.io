@@ -1,0 +1,11 @@
+body {
+color:Yellow;
+background-color: blue;
+font-size: 40px;
+font-family: Comic-Sans;
+}
+
+div.scrollbox 
+{ height:100px;
+width:100px;
+overflow:scroll; }
